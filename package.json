@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@abp/ng.schematics": "^7.0.1"
+  }
+}
